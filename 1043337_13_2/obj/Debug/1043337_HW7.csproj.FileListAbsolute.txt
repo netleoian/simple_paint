@@ -1,0 +1,11 @@
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\bin\Debug\1043337_13_2.exe.config
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\1043337_13_2.exe
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\1043337_13_2.pdb
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\bin\Debug\1043337_13_2.exe
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\bin\Debug\1043337_13_2.pdb
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\1043337_HW7.csprojResolveAssemblyReference.cache
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\_1043337_13_2.Form1.resources
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\_1043337_13_2.Form2.resources
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\_1043337_13_2.Form3.resources
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\_1043337_13_2.Properties.Resources.resources
+C:\Users\yan li jia\Desktop\1043337_HW7\1043337_13_2\obj\Debug\1043337_HW7.csproj.GenerateResource.Cache
